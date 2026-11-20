@@ -1,0 +1,2 @@
+11-20 16:31:18.811 12778 12800 I TestRunner: started: useAppContext(com.santiago.bibliotecamovil.ExampleInstrumentedTest)
+11-20 16:31:18.827 12778 12800 I TestRunner: finished: useAppContext(com.santiago.bibliotecamovil.ExampleInstrumentedTest)

@@ -1,0 +1,5 @@
+com.santiago.bibliotecamovil.test.app-updated_navigation_xml-0 C:\Users\santi\OneDrive\Escritorio\APK\BibliotecaMovil_ConsultaLibros\BibliotecaMovil\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.santiago.bibliotecamovil.test.app-packageDebugAndroidTestResources-1 C:\Users\santi\OneDrive\Escritorio\APK\BibliotecaMovil_ConsultaLibros\BibliotecaMovil\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\merged.dir
+com.santiago.bibliotecamovil.test.app-packageDebugAndroidTestResources-2 C:\Users\santi\OneDrive\Escritorio\APK\BibliotecaMovil_ConsultaLibros\BibliotecaMovil\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\stripped.dir
+com.santiago.bibliotecamovil.test.app-debugAndroidTest-3 C:\Users\santi\OneDrive\Escritorio\APK\BibliotecaMovil_ConsultaLibros\BibliotecaMovil\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+gradleHome-0 C:\Users\santi\.gradle

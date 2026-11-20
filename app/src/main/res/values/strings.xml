@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BibliotecaMovil</string>
+    <string name="titulo_catalogo">Sistema de Biblioteca</string>
+    <string name="consultar_libros">Consultar libros</string>
+    <string name="cargando_libros">Consultando el catálogo…</string>
+    <string name="error_catalogo">No se pudo consultar el catálogo. Verifica que Tomcat y MariaDB estén activos e inténtalo de nuevo.</string>
+    <string name="catalogo_vacio">El catálogo está vacío.</string>
+    <plurals name="libros_encontrados">
+        <item quantity="one">%d libro encontrado</item>
+        <item quantity="other">%d libros encontrados</item>
+    </plurals>
+</resources>

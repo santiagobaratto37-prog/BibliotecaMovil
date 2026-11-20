@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.santiago.bibliotecamovil.datos.CatalogoApiTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-11-20T17:04:26.025Z" hostname="SANTIAGO" time="0.07">
+  <properties/>
+  <testcase name="aceptaCatalogoVacio" classname="com.santiago.bibliotecamovil.datos.CatalogoApiTest" time="0.01"/>
+  <testcase name="rechazaRespuestaSinStock" classname="com.santiago.bibliotecamovil.datos.CatalogoApiTest" time="0.033"/>
+  <testcase name="leeLibroDelCatalogo" classname="com.santiago.bibliotecamovil.datos.CatalogoApiTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,24 @@
+com.santiago.bibliotecamovil
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id consultar
+id estado
+id libros
+id main
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+plurals libros_encontrados
+string app_name
+string cargando_libros
+string catalogo_vacio
+string consultar_libros
+string error_catalogo
+string titulo_catalogo
+style Base_Theme_BibliotecaMovil
+style Theme_BibliotecaMovil
+xml backup_rules
+xml data_extraction_rules
+xml red_desarrollo
